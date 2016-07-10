@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>2B03C704-2A8C-4449-AC7A-861017BD7933</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>2B03C704-2A8C-4449-AC7A-861017BD7933</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va6QDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAoAIAAAUAAAABAQAAVXNlcnMA
+				AAAHAAAAAQEAAHRoaWVycnkACQAAAAEBAABEb2N1bWVu
+				dHMAAAAGAAAAAQEAAGdpdGh1YgAAEAAAAAEBAABib290
+				c3RyYXAtc29jaWFsFAAAAAEGAAAEAAAAFAAAACQAAAA4
+				AAAASAAAAAgAAAAEAwAA1ZMCAAAAAAAIAAAABAMAANRD
+				CQAAAAAACAAAAAQDAADjbgwAAAAAAAgAAAAEAwAAirIR
+				AAAAAAAIAAAABAMAANW9jwIAAAAAFAAAAAEGAAB8AAAA
+				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQb0xCFwAAAAY
+				AAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAQA
+				AAADAwAAAwAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmls
+				ZTovLy8LAAAAAQEAAHRoaWVycnlfbUhEAAgAAAAEAwAA
+				AGCiNHQAAAAIAAAAAAQAAEG58PFXAAAAJAAAAAEBAAA4
+				RDlFNTg1My1CQkNCLTNGNTQtQUJDRC1DMDk5QjJDODZB
+				Q0IYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAA
+				AAEAAAABAQAALwAAAAAAAAABBQAAwQAAAAECAAAzOGZk
+				ZDNkMTc4MTY4OWNlYTkwYjI2NjhkYzFhYzFhY2U0NDM3
+				N2VmOzAwMDAwMDAwOzAwMDAwMDAwOzAwMDAwMDAwMDAw
+				MDAwMjA7Y29tLmFwcGxlLmFwcC1zYW5kYm94LnJlYWQt
+				d3JpdGU7MDAwMDAwMDE7MDEwMDAwMDQ7MDAwMDAwMDAw
+				MjhmYmRkNTsvdXNlcnMvdGhpZXJyeS9kb2N1bWVudHMv
+				Z2l0aHViL2Jvb3RzdHJhcC1zb2NpYWwAAAAAzAAAAP7/
+				//8BAAAAAAAAABAAAAAEEAAAYAAAAAAAAAAFEAAAzAAA
+				AAAAAAAQEAAA+AAAAAAAAABAEAAA6AAAAAAAAAACIAAA
+				wAEAAAAAAAAFIAAAMAEAAAAAAAAQIAAAQAEAAAAAAAAR
+				IAAAdAEAAAAAAAASIAAAVAEAAAAAAAATIAAAZAEAAAAA
+				AAAgIAAAoAEAAAAAAAAwIAAAzAEAAAAAAAABwAAAGAEA
+				AAAAAAARwAAAFAAAAAAAAAASwAAAJAEAAAAAAACA8AAA
+				1AEAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/thierry/Documents/github/bootstrap-social/</string>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>bootstrap-social</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
