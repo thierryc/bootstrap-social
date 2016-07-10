@@ -1,0 +1,23 @@
+/*
+ * Social Buttons for Bootstrap
+ *
+ * Copyright 2013-2015 Panayiotis Lipiridis
+ * Licensed under the MIT License
+ *
+ * https://github.com/lipis/bootstrap-social
+ */
+
+@import "./node_modules/brand-colors/dist/latest/scss/brand-colors.latest.scss";
+
+@import "./node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss";
+@import "./node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss";
+
+//  varialbe not set in brand-color
+// social color
+
+$sc-adn: #d87a68;
+$sc-openid: #f7931e;
+$sc-vk: #587ea3;
+
+@import "./bootstrap-social.scss";
+

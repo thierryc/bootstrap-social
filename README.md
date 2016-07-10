@@ -1,3 +1,14 @@
+###Note
+
+This is a fork from bootstrap-social. (WIP)
+
+[bootstrap-social](http://lipis.github.io/bootstrap-social)
+
+This version uses brand-color project as input for the color buttons
+
+[brand-color](https://github.com/reimertz/brand-colors/)
+
+
 Social Buttons for Bootstrap
 ============================
 [![npm version](https://badge.fury.io/js/bootstrap-social.svg)](https://badge.fury.io/js/bootstrap-social)
@@ -9,10 +20,27 @@ Social Buttons made in pure CSS based on
 
 [Check the live demo!](http://lipis.github.io/bootstrap-social)
 
+
+Build
+-----
+
+This version is in progress.
+
+```bash
+
+npm install
+gulp sass
+
+```
+
+To build your css file in css folder.
+
+LESS build is not yet implemented.
+
 Installation
 ------------
 
-Include the `bootstrap-social.css` or `bootstrap-social.less` in your project, or
+Include the `bootstrap-social.css`, `bootstrap-social.sass` or `bootstrap-social.less` in your project, or
 install it through [Bower](http://bower.io/):
 
     bower install bootstrap-social
@@ -40,6 +68,32 @@ Available classes
  - `btn-vimeo`
  - `btn-vk`
  - `btn-yahoo`
+ - `btn-youtube`
+
+How to add a new button
+-----------------------
+
+Examples: YouTube into your scss file.
+
+```scss
+.btn-youtube       { @include btn-social($bc-youtube); } // youtube-play
+
+```
+
+###HTML
+
+```html
+<a class="btn btn-block btn-social btn-youtube">
+  <span class="fa fa-youtube"></span>
+  Sign in with Twitter
+</a>
+
+<a class="btn btn-block btn-social btn-youtube">
+  <span class="fa fa-youtube-play"></span>
+  Sign in with Twitter
+</a>
+
+```
 
 Examples
 --------
