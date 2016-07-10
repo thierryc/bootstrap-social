@@ -1,4 +1,9 @@
 .DS_Store
 dev
+<<<<<<< HEAD
 *.bbprojectd
 node_modules
+=======
+node_modules
+*.bbprojectd
+>>>>>>> gh-pages
