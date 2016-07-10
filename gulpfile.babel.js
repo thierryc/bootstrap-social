@@ -16,12 +16,13 @@ gulp.task('sass', () => {
       basename: "bootstrap-social"
     }))
     .pipe(gulp.dest('./css'))
+    .pipe(gulp.dest('./dist'))
     .pipe($.cleanCss({keepBreaks: true}))
     .pipe($.rename({
       suffix: '.min'
     }))
     .pipe(gulp.dest('./css'))
-    .pipe(gulp.dest('./'));
+    .pipe(gulp.dest('./dist'));
 });
 
 gulp.task('diff', () => {
@@ -30,5 +31,10 @@ gulp.task('diff', () => {
 
 gulp.task('default', ['sass'], () => {
   console.log('diff');
+});
+
+gulp.task('deploy', function() {
+  return gulp.src('./dist/**/*')
+    .pipe($.ghPages());
 });
 
