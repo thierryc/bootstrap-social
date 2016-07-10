@@ -33,7 +33,7 @@ gulp.task('default', ['sass'], () => {
   console.log('diff');
 });
 
-gulp.task('deploy', function() {
+gulp.task('deploy', ['sass'], () => {
   return gulp.src('./dist/**/*')
     .pipe($.ghPages());
 });
